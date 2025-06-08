@@ -43,7 +43,7 @@ A non-profit organization that:
 
 ## Philosophy
 
-“Architecture is no longer the art of building systems in certainty.
-It is the art of designing for the unknown, where context unfolds, not upfront, but in the moment.
-In this new era, logic waits. Meaning emerges. And software becomes an act of presence.”
+“Architecture is no longer the art of building systems in certainty.  
+It is the art of designing for the unknown, where context unfolds, not upfront, but in the moment.  
+In this new era, logic waits. Meaning emerges. And software becomes an act of presence.”  
 -- Pierre Evens, Continuum Manifesto
