@@ -11,7 +11,7 @@
 
 ---
 
-## Welcome to my digital workspace.
+## Welcome to my digital workspace
 
 I'm the creator of **Stone.js**, a universal JavaScript/TypeScript framework that redefines application design through the **Continuum Architecture**, an architecture I also authored in the **Continuum Manifesto**.
 
