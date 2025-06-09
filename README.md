@@ -37,7 +37,7 @@ A non-profit organization that:
 
 ### Core Framework
 
-* 🧱 [**Stone.js**](https://github.com/stonemjs/stone) – The next-generation JavaScript/TypeScript framework designed around Continuum Architecture. Write once, run anywhere: backend, frontend, edge, FaaS.
+* 🧱 [**Stone.js**](https://github.com/stonemjs/repositories?q=topic%3Astonejs-core) – The next-generation JavaScript/TypeScript framework designed around Continuum Architecture. Write once, run anywhere: backend, frontend, edge, FaaS.
 
 ### Tooling & Developer Experience
 
