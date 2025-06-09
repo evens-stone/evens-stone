@@ -37,7 +37,7 @@ A non-profit organization that:
 
 ### Core Framework
 
-* 🧱 [**Stone.js**](https://github.com/stonemjs/repositories?q=topic%3Astonejs-core) – The next-generation JavaScript/TypeScript framework designed around Continuum Architecture. Write once, run anywhere: backend, frontend, edge, FaaS.
+* 🧱 [**Stone.js**](https://github.com/orgs/stonemjs/repositories?q=topic%3Astonejs-core) – The next-generation JavaScript/TypeScript framework designed around Continuum Architecture. Write once, run anywhere: backend, frontend, edge, FaaS.
 
 ### Tooling & Developer Experience
 
@@ -53,7 +53,7 @@ A non-profit organization that:
 
 ### Adapters & Integration
 
-* 🧩 [**Stone Adapters**](https://github.com/stonemjs/repositories?q=topic%3Astonejs-adapter) – Run Stone.js on Node.js, Browser, CLI, AWS Lambda, or any custom runtime with powerful adapter system.
+* 🧩 [**Stone Adapters**](https://github.com/orgs/stonemjs/repositories?q=topic%3Astonejs-adapter) – Run Stone.js on Node.js, Browser, CLI, AWS Lambda, or any custom runtime with powerful adapter system.
 
 ### Documentation & Philosophy
 
