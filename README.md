@@ -26,7 +26,7 @@ Stone.js lets you write logic once and defer environment-specific behavior, depl
 ### Author of the [Continuum Architecture Manifesto](https://evens-stone.github.io/continuum-manifesto/)  
 A new vision for software architecture: delay execution context decisions to runtime, reduce coupling, and design systems to embrace uncertainty.
 
-### Founder of the **Stone Foundation**  
+### Founder of the [Stone Foundation](https://stone-foundation.org)  
 A non-profit organization that:
 - Promotes the Stone.js ecosystem
 - Guides companies toward modern cloud-native architectures
