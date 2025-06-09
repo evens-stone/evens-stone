@@ -1,6 +1,5 @@
 # Hi, I’m Mr. Stone 🗿 - Software Architecture Strategist
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fstonejs.com)](https://stonejs.com)
 [![Stone.js](https://img.shields.io/badge/Framework-Stone.js-111111?style=flat&logo=javascript)](https://stonejs.com)
 [![Continuum Manifesto](https://img.shields.io/badge/Manifesto-Continuum_Architecture-800080?style=flat)](https://evens-stone.github.io/continuum-manifesto/)
 [![GitHub Stars](https://img.shields.io/github/stars/stonemjs/core?style=social)](https://github.com/stonemjs/core)
