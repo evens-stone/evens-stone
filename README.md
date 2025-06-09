@@ -24,7 +24,7 @@ A universal, cloud-native friendly JavaScript/TypeScript framework where **execu
 Stone.js lets you write logic once and defer environment-specific behavior, deployable on Node.js, browsers, or FaaS with zero rewrite.
 
 ### Author of the [Continuum Architecture Manifesto](https://evens-stone.github.io/continuum-manifesto/)  
-A new vision for software architecture: delay context decisions to runtime, reduce coupling, and design systems to embrace uncertainty.
+A new vision for software architecture: delay execution context decisions to runtime, reduce coupling, and design systems to embrace uncertainty.
 
 ### Founder of the **Stone Foundation**  
 A non-profit organization that:
